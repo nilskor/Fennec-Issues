@@ -1,0 +1,157 @@
+12:58:54 gnome-shell: access control disabled, clients can connect from any host
+12:58:38 dbus-daemon: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.1149' (uid=1000 pid=3036 comm="/usr/bin/gnome-shell ")
+12:58:38 gnome-shell: enabling Background Logo version 1
+12:58:38 gnome-shell: enabling Background Logo version 1
+12:58:38 gnome-shell: fennec : enable
+12:57:57 gnome-shell: Did not find color property '-panel-corner-border-color'
+12:57:57 gnome-shell: Did not find color property '-panel-corner-background-color'
+12:57:57 gnome-shell: Did not find color property '-panel-corner-border-color'
+12:57:57 gnome-shell: Did not find color property '-panel-corner-background-color'
+12:57:57 gnome-shell: Did not find color property '-panel-corner-border-color'
+12:57:57 gnome-shell: Did not find color property '-panel-corner-background-color'
+12:57:57 gnome-shell: Did not find color property '-panel-corner-border-color'
+12:57:57 gnome-shell: Did not find color property '-panel-corner-background-color'
+12:57:57 gnome-shell: Did not find color property '-panel-corner-border-color'
+12:57:57 gnome-shell: Did not find color property '-panel-corner-background-color'
+12:57:57 gnome-shell: Did not find color property '-panel-corner-border-color'
+12:57:57 gnome-shell: Did not find color property '-panel-corner-background-color'
+12:57:57 gnome-shell: Did not find color property '-panel-corner-border-color'
+12:57:57 gnome-shell: Did not find color property '-panel-corner-background-color'
+12:57:57 gnome-shell: Did not find color property '-panel-corner-border-color'
+12:57:57 gnome-shell: Did not find color property '-panel-corner-background-color'
+12:57:57 gnome-shell: disabling Background Logo version 1
+12:57:57 gnome-shell: fennec : disable
+12:57:57 gnome-shell: Did not find color property '-panel-corner-border-color'
+12:57:57 gnome-shell: Did not find color property '-panel-corner-background-color'
+12:57:57 gnome-shell: Did not find color property '-panel-corner-border-color'
+12:57:57 gnome-shell: Did not find color property '-panel-corner-background-color'
+12:57:57 gnome-shell: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+12:57:57 gnome-shell: g_file_resolve_relative_path: assertion 'G_IS_FILE (file)' failed
+12:57:57 gnome-shell: g_file_get_parent: assertion 'G_IS_FILE (file)' failed
+12:52:55 gnome-shell: g_object_run_dispose: assertion 'G_IS_OBJECT (object)' failed
+12:52:55 gnome-shell: #9   56219fcfda10 i   resource:///org/gnome/shell/ui/tweener.js:182 (7f449b3d9700 @ 15)
+12:52:55 gnome-shell: #8   7ffcb0e9eee0 b   resource:///org/gnome/gjs/modules/_legacy.js:82 (7f449b3b0b80 @ 71)
+12:52:55 gnome-shell: #7   56219fcfda90 i   resource:///org/gnome/shell/ui/tweener.js:207 (7f449b3d9790 @ 159)
+12:52:55 gnome-shell: #6   7ffcb0e9df60 b   resource:///org/gnome/gjs/modules/signals.js:128 (7f449b3c18b0 @ 386)
+12:52:55 gnome-shell: #5   56219fcfdb20 i   resource:///org/gnome/gjs/modules/tweener/tweener.js:370 (7f449b3dd940 @ 10)
+12:52:55 gnome-shell: #4   56219fcfdb98 i   resource:///org/gnome/gjs/modules/tweener/tweener.js:355 (7f449b3dd8b0 @ 100)
+12:52:55 gnome-shell: #3   7ffcb0e9cfc0 b   resource:///org/gnome/gjs/modules/tweener/tweener.js:342 (7f449b3dd820 @ 1742)
+12:52:55 gnome-shell: #2   7ffcb0e9ce70 b   resource:///org/gnome/gjs/modules/tweener/tweener.js:208 (7f449b3dd790 @ 54)
+12:52:55 gnome-shell: #1   56219fcfdc28 i   resource:///org/gnome/shell/ui/tweener.js:91 (7f449b3ccf70 @ 37)
+12:52:55 gnome-shell: #0   56219fcfdcb0 i   resource:///org/gnome/shell/ui/background.js:720 (7f449b10d550 @ 22)
+12:52:55 gnome-shell: == Stack trace for context 0x562191b4c2c0 ==
+12:52:55 gnome-shell: Object Meta.Background (0x5621923f6b60), has been already deallocated — impossible to access it. This might be caused by the object having been destroyed from C code using something such as destroy(), dispose(), or remove() vfuncs.
+12:52:15 gnome-shell: loading user theme: /usr/share//themes/fennec-dark/gnome-shell/gnome-shell.css
+12:52:12 gnome-shell: Theme parsing error: gtk-contained.css:9054:21: '/*' in comment block
+12:52:12 gnome-shell: Theme parsing error: gtk-contained.css:9054:21: '/*' in comment block
+12:52:02 gnome-shell: Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2000007 (GNOME Twea)
+12:51:53 gnome-shell: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+12:51:53 gnome-shell: g_file_resolve_relative_path: assertion 'G_IS_FILE (file)' failed
+12:51:53 gnome-shell: g_file_get_parent: assertion 'G_IS_FILE (file)' failed
+12:51:53 gnome-shell: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+12:51:53 gnome-shell: g_file_resolve_relative_path: assertion 'G_IS_FILE (file)' failed
+12:51:53 gnome-shell: g_file_get_parent: assertion 'G_IS_FILE (file)' failed
+12:51:53 gnome-shell: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+12:51:53 gnome-shell: g_file_resolve_relative_path: assertion 'G_IS_FILE (file)' failed
+12:51:53 gnome-shell: g_file_get_parent: assertion 'G_IS_FILE (file)' failed
+12:51:53 gnome-shell: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+12:51:53 gnome-shell: g_file_resolve_relative_path: assertion 'G_IS_FILE (file)' failed
+12:51:53 gnome-shell: g_file_get_parent: assertion 'G_IS_FILE (file)' failed
+12:51:53 gnome-shell: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+12:51:53 gnome-shell: g_file_resolve_relative_path: assertion 'G_IS_FILE (file)' failed
+12:51:53 gnome-shell: g_file_get_parent: assertion 'G_IS_FILE (file)' failed
+12:51:53 gnome-shell: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+12:51:53 gnome-shell: g_file_resolve_relative_path: assertion 'G_IS_FILE (file)' failed
+12:51:53 gnome-shell: g_file_get_parent: assertion 'G_IS_FILE (file)' failed
+12:51:45 gnome-shell: GNOME Shell started at Wed Jan 08 2020 12:51:44 GMT+0800 (AWST)
+12:51:44 gnome-shell: Error looking up permission: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.impl.portal.PermissionStore was not provided by any .service files
+12:51:44 gnome-shell: loading user theme: /usr/share//themes/fennec/gnome-shell/gnome-shell.css
+12:51:44 gnome-shell: fennec : enable
+12:51:44 gnome-shell: blossMain: 
+Swift version 5.1.3 (swift-5.1.3-RELEASE)
+Target: x86_64-unknown-linux-gnu
+
+12:51:44 gnome-shell: *****************************************************
+12:51:44 gnome-shell: * bloss.io - fennec release v1.0.9                  *
+12:51:44 gnome-shell: *****************************************************
+12:51:44 gnome-shell: fennec : init
+12:51:44 gnome-shell: enabling Background Logo version 1
+12:51:44 gnome-shell: initializing Background Logo version 1
+12:51:44 dbus-daemon: [system] Activating via systemd: service name='org.freedesktop.PackageKit' unit='packagekit.service' requested by ':1.1149' (uid=1000 pid=3036 comm="/usr/bin/gnome-shell ")
+12:51:44 gnome-shell: Telepathy is not available, chat integration will be disabled.
+12:51:44 polkitd: Registered Authentication Agent for unix-session:2 (system bus name :1.1149 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_AU.UTF-8)
+12:51:44 gnome-shell: g_filename_to_utf8: assertion 'opsysstring != NULL' failed
+12:51:44 gnome-shell: g_filename_to_utf8: assertion 'opsysstring != NULL' failed
+12:51:44 gnome-shell: g_dir_open_with_errno: assertion 'path != NULL' failed
+12:51:44 gnome-shell: g_filename_to_utf8: assertion 'opsysstring != NULL' failed
+12:51:44 gnome-shell: g_dir_open_with_errno: assertion 'path != NULL' failed
+12:51:44 gnome-shell: Failed to launch ibus-daemon: Failed to execute child process “ibus-daemon” (No such file or directory)
+12:51:43 kernel: traps: gnome-shell[1217] general protection ip:7fb7c339901c sp:7ffdd2f005c8 error:0 in libgobject-2.0.so.0.5800.3[7fb7c336f000+32000]
+12:51:43 gnome-shell: Ignoring excess values in shadow definition
+12:51:43 gnome-shell: Ignoring excess values in shadow definition
+12:51:43 gnome-shell: Ignoring excess values in shadow definition
+12:51:43 gnome-shell: Ignoring excess values in shadow definition
+12:51:43 gnome-shell: Ignoring excess values in shadow definition
+12:51:43 gnome-shell: Ignoring excess values in shadow definition
+12:51:43 gnome-shell: Ignoring excess values in shadow definition
+12:51:43 gnome-shell: Ignoring excess values in shadow definition
+12:51:43 gnome-shell: Ignoring excess values in shadow definition
+12:51:38 gnome-shell: Did not find color property '-panel-corner-border-color'
+12:51:38 gnome-shell: Did not find color property '-panel-corner-background-color'
+12:51:38 gnome-shell: Did not find color property '-panel-corner-border-color'
+12:51:38 gnome-shell: Did not find color property '-panel-corner-background-color'
+12:51:38 gnome-shell: loading user theme: /usr/share//themes/fennec/gnome-shell/gnome-shell.css
+12:51:31 gnome-shell: Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2000007 (GNOME Twea)
+12:51:14 gnome-shell: loading user theme: /usr/share//themes/fennec-dark/gnome-shell/gnome-shell.css
+12:51:14 gnome-shell: fennec : enable
+12:51:14 gnome-shell: Window manager warning: Trying to remove non-existent keybinding "shortcut".
+12:51:14 gnome-shell: fennec : disable
+12:51:14 gnome-shell: Did not find color property '-panel-corner-border-color'
+12:51:14 gnome-shell: Did not find color property '-panel-corner-background-color'
+12:51:14 gnome-shell: Did not find color property '-panel-corner-border-color'
+12:51:14 gnome-shell: Did not find color property '-panel-corner-background-color'
+12:50:50 gnome-shell: Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2000007 (GNOME Twea)
+12:50:42 gnome-shell: The property vignette_sharpness doesn't seem to be a normal object property of [0x561902ace3e0 StWidget] or a registered special property
+12:50:42 gnome-shell: The property brightness doesn't seem to be a normal object property of [0x561902ace3e0 StWidget] or a registered special property
+12:50:42 gnome-shell: The property vignette_sharpness doesn't seem to be a normal object property of [0x5618fdf86b10 StWidget] or a registered special property
+12:50:42 gnome-shell: The property brightness doesn't seem to be a normal object property of [0x5618fdf86b10 StWidget] or a registered special property
+12:50:39 gnome-shell: loading user theme: /usr/share//themes/fennec-dark/gnome-shell/gnome-shell.css
+12:50:34 gnome-shell: Theme parsing error: gtk-contained.css:9054:21: '/*' in comment block
+12:50:29 gnome-shell: Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2000007 (GNOME Twea)
+12:49:56 gnome-shell: Did not find color property '-panel-corner-border-color'
+12:49:56 gnome-shell: Did not find color property '-panel-corner-background-color'
+12:49:56 gnome-shell: Did not find color property '-panel-corner-border-color'
+12:49:56 gnome-shell: Did not find color property '-panel-corner-background-color'
+12:49:56 gnome-shell: loading user theme: /usr/share//themes/fennec/gnome-shell/gnome-shell.css
+12:49:48 gnome-shell: Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2000007 (GNOME Twea)
+12:49:25 gnome-shell: Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2000007 (GNOME Twea)
+12:47:07 gnome-shell: Error sending IPC message: Broken pipe
+12:46:30 dbus-daemon: [session uid=1000 pid=1118] Activating service name='org.gnome.Shell.HotplugSniffer' requested by ':1.59' (uid=1000 pid=1217 comm="/usr/bin/gnome-shell ")
+12:43:22 gnome-shell: loading user theme: /usr/share//themes/fennec-dark/gnome-shell/gnome-shell.css
+12:41:45 dbus-daemon: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.549' (uid=1000 pid=1217 comm="/usr/bin/gnome-shell ")
+12:30:42 gnome-shell: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+12:30:26 dbus-daemon: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.549' (uid=1000 pid=1217 comm="/usr/bin/gnome-shell ")
+12:30:26 gnome-shell: fennec : enable
+12:30:26 dbus-daemon: [system] Activating via systemd: service name='org.freedesktop.PackageKit' unit='packagekit.service' requested by ':1.549' (uid=1000 pid=1217 comm="/usr/bin/gnome-shell ")
+12:30:26 gnome-shell: Telepathy is not available, chat integration will be disabled.
+12:30:26 polkitd: Registered Authentication Agent for unix-session:2 (system bus name :1.549 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_AU.UTF-8)
+12:30:26 gnome-shell: g_filename_to_utf8: assertion 'opsysstring != NULL' failed
+12:27:12 dbus-daemon: [session uid=1000 pid=1118] Activating service name='org.gnome.DiskUtility' requested by ':1.14' (uid=1000 pid=1217 comm="/usr/bin/gnome-shell ")
+12:27:10 gnome-shell: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+12:26:44 dbus-daemon: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.287' (uid=1000 pid=1217 comm="/usr/bin/gnome-shell ")
+12:25:36 gnome-shell: # watch_established: "/org/gnome/terminal/legacy/" (establishing: 0)
+20:24:56 dbus-daemon: [session uid=1000 pid=1118] Activating via systemd: service name='org.gtk.vfs.MTPVolumeMonitor' unit='gvfs-mtp-volume-monitor.service' requested by ':1.14' (uid=1000 pid=1217 comm="/usr/bin/gnome-shell ")
+20:24:56 gnome-shell: Telepathy is not available, chat integration will be disabled.
+20:24:56 polkitd: Registered Authentication Agent for unix-session:2 (system bus name :1.287 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_AU.UTF-8)
+20:24:56 gnome-shell: g_filename_to_utf8: assertion 'opsysstring != NULL' failed
+20:24:56 dbus-daemon: [session uid=1000 pid=1118] Activating via systemd: service name='org.gnome.evolution.dataserver.Sources5' unit='evolution-source-registry.service' requested by ':1.16' (uid=1000 pid=1234 comm="/usr/lib/gnome-shell/gnome-shell-calendar-server ")
+20:24:56 gnome-shell: Failed to launch ibus-daemon: Failed to execute child process “ibus-daemon” (No such file or directory)
+20:24:47 dbus-daemon: [system] Activating via systemd: service name='org.freedesktop.realmd' unit='realmd.service' requested by ':1.28' (uid=119 pid=600 comm="/usr/bin/gnome-shell ")
+20:24:47 gnome-shell: Error looking up permission: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.impl.portal.PermissionStore was not provided by any .service files
+20:24:47 dbus-daemon: [system] Activating via systemd: service name='org.freedesktop.PackageKit' unit='packagekit.service' requested by ':1.28' (uid=119 pid=600 comm="/usr/bin/gnome-shell ")
+20:24:47 polkitd: Registered Authentication Agent for unix-session:c1 (system bus name :1.28 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_AU.UTF-8)
+20:24:47 dbus-daemon: [system] Activating via systemd: service name='org.freedesktop.GeoClue2' unit='geoclue.service' requested by ':1.28' (uid=119 pid=600 comm="/usr/bin/gnome-shell ")
+20:24:47 gnome-shell: g_filename_to_utf8: assertion 'opsysstring != NULL' failed
+20:24:47 dbus-daemon: [system] Activating via systemd: service name='org.freedesktop.UPower' unit='upower.service' requested by ':1.28' (uid=119 pid=600 comm="/usr/bin/gnome-shell ")
+20:24:46 gnome-shell: Failed to launch ibus-daemon: Failed to execute child process “ibus-daemon” (No such file or directory)
+20:24:46 dbus-daemon: [system] Activating via systemd: service name='org.freedesktop.locale1' unit='dbus-org.freedesktop.locale1.service' requested by ':1.28' (uid=119 pid=600 comm="/usr/bin/gnome-shell ")
